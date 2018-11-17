@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/liu/Desktop/high-performance-server/lec6-OO/Thread.cpp
+Thread.h
+/home/liu/Desktop/high-performance-server/lec6-OO/Thread.h
+iostream
+-
+
+/home/liu/Desktop/high-performance-server/lec6-OO/Thread.h
+pthread.h
+-
+boost/function.hpp
+-
+
+/home/liu/Desktop/high-performance-server/lec6-OO/Thread_test.cpp
+Thread.h
+/home/liu/Desktop/high-performance-server/lec6-OO/Thread.h
+boost/bind.hpp
+-
+iostream
+-
+unistd.h
+-
+

@@ -1,0 +1,3 @@
+/home/liu/Desktop/high-performance-server/lec4-OOP/build/CMakeFiles/rebuild_cache.dir
+/home/liu/Desktop/high-performance-server/lec4-OOP/build/CMakeFiles/Thread_test.dir
+/home/liu/Desktop/high-performance-server/lec4-OOP/build/CMakeFiles/edit_cache.dir

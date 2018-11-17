@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/liu/Desktop/high-performance-server/lec5-Boost::bind/bind_test.cpp
+iostream
+-
+boost/function.hpp
+-
+boost/bind.hpp
+-
+

@@ -1,0 +1,1 @@
+g++  -g -Wall  -rdynamic CMakeFiles/bind_test.dir/bind_test.o  -o bin/bind_test 

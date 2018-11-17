@@ -1,0 +1,24 @@
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: /home/liu/Desktop/high-performance-server/lec5-Boost::bind/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_d1bcb/fast"
+/usr/bin/make -f CMakeFiles/cmTC_d1bcb.dir/build.make CMakeFiles/cmTC_d1bcb.dir/build
+make[1]: Entering directory '/home/liu/Desktop/high-performance-server/lec5-Boost::bind/build/CMakeFiles/CMakeTmp'
+CMakeFiles/cmTC_d1bcb.dir/build.make:64: *** target pattern contains no '%'.  Stop.
+make[1]: Leaving directory '/home/liu/Desktop/high-performance-server/lec5-Boost::bind/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:126: cmTC_d1bcb/fast] Error 2
+
+
+
+Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
+Change Dir: /home/liu/Desktop/high-performance-server/lec5-Boost::bind/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_bf48e/fast"
+/usr/bin/make -f CMakeFiles/cmTC_bf48e.dir/build.make CMakeFiles/cmTC_bf48e.dir/build
+make[1]: Entering directory '/home/liu/Desktop/high-performance-server/lec5-Boost::bind/build/CMakeFiles/CMakeTmp'
+CMakeFiles/cmTC_bf48e.dir/build.make:64: *** target pattern contains no '%'.  Stop.
+make[1]: Leaving directory '/home/liu/Desktop/high-performance-server/lec5-Boost::bind/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:126: cmTC_bf48e/fast] Error 2
+
+
+
